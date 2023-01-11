@@ -7,23 +7,49 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		F98B6E8529634B1F00EF9302 /* TestScreen.swift in Sources */ = {isa = PBXBuildFile; fileRef = F98B6E8329634B1F00EF9302 /* TestScreen.swift */; };
+		F98B6E8629634B1F00EF9302 /* TestScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = F98B6E8429634B1F00EF9302 /* TestScreen.xib */; };
+		F99B8553295DEDC2005EA13D /* Testing.swift in Sources */ = {isa = PBXBuildFile; fileRef = F99B8552295DEDC2005EA13D /* Testing.swift */; };
+		F99B8556295DF937005EA13D /* SelectableButton.swift in Sources */ = {isa = PBXBuildFile; fileRef = F99B8555295DF937005EA13D /* SelectableButton.swift */; };
+		F99B8558295EB25C005EA13D /* SelectableTableGroup.swift in Sources */ = {isa = PBXBuildFile; fileRef = F99B8557295EB25C005EA13D /* SelectableTableGroup.swift */; };
+		F99B855A295EB28B005EA13D /* SelectableTableCellGroup.swift in Sources */ = {isa = PBXBuildFile; fileRef = F99B8559295EB28B005EA13D /* SelectableTableCellGroup.swift */; };
+		F99B855C295EB2AA005EA13D /* SelectableCollectionGroup.swift in Sources */ = {isa = PBXBuildFile; fileRef = F99B855B295EB2AA005EA13D /* SelectableCollectionGroup.swift */; };
+		F99B855F295EB31E005EA13D /* User.swift in Sources */ = {isa = PBXBuildFile; fileRef = F99B855E295EB31E005EA13D /* User.swift */; };
+		F99B8562295EB34E005EA13D /* SelectableNameProtocol.swift in Sources */ = {isa = PBXBuildFile; fileRef = F99B8561295EB34E005EA13D /* SelectableNameProtocol.swift */; };
+		F99B8564295EB370005EA13D /* SelectableDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = F99B8563295EB370005EA13D /* SelectableDelegate.swift */; };
+		F9B17B28295F6DD000AE3CCF /* HomeScreen.swift in Sources */ = {isa = PBXBuildFile; fileRef = F9B17B27295F6DD000AE3CCF /* HomeScreen.swift */; };
+		F9B17B2A295F6DE800AE3CCF /* Object.swift in Sources */ = {isa = PBXBuildFile; fileRef = F9B17B29295F6DE800AE3CCF /* Object.swift */; };
+		F9B17B2C295F969400AE3CCF /* SelectableCollectionCellGroup.swift in Sources */ = {isa = PBXBuildFile; fileRef = F9B17B2B295F969400AE3CCF /* SelectableCollectionCellGroup.swift */; };
 		F9B77658295A309600AC1FB0 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = F9B77657295A309600AC1FB0 /* AppDelegate.swift */; };
 		F9B7765A295A309600AC1FB0 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = F9B77659295A309600AC1FB0 /* SceneDelegate.swift */; };
 		F9B7765C295A309600AC1FB0 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = F9B7765B295A309600AC1FB0 /* ViewController.swift */; };
-		F9B7765F295A309600AC1FB0 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = F9B7765D295A309600AC1FB0 /* Main.storyboard */; };
 		F9B77661295A309700AC1FB0 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = F9B77660295A309700AC1FB0 /* Assets.xcassets */; };
 		F9B77664295A309700AC1FB0 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = F9B77662295A309700AC1FB0 /* LaunchScreen.storyboard */; };
+		F9B7766E295A35F300AC1FB0 /* ViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = F9B7766C295A35F300AC1FB0 /* ViewController.xib */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		F98B6E8329634B1F00EF9302 /* TestScreen.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TestScreen.swift; sourceTree = "<group>"; };
+		F98B6E8429634B1F00EF9302 /* TestScreen.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = TestScreen.xib; sourceTree = "<group>"; };
+		F99B8552295DEDC2005EA13D /* Testing.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Testing.swift; sourceTree = "<group>"; };
+		F99B8555295DF937005EA13D /* SelectableButton.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SelectableButton.swift; sourceTree = "<group>"; };
+		F99B8557295EB25C005EA13D /* SelectableTableGroup.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SelectableTableGroup.swift; sourceTree = "<group>"; };
+		F99B8559295EB28B005EA13D /* SelectableTableCellGroup.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SelectableTableCellGroup.swift; sourceTree = "<group>"; };
+		F99B855B295EB2AA005EA13D /* SelectableCollectionGroup.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SelectableCollectionGroup.swift; sourceTree = "<group>"; };
+		F99B855E295EB31E005EA13D /* User.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = User.swift; sourceTree = "<group>"; };
+		F99B8561295EB34E005EA13D /* SelectableNameProtocol.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SelectableNameProtocol.swift; sourceTree = "<group>"; };
+		F99B8563295EB370005EA13D /* SelectableDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SelectableDelegate.swift; sourceTree = "<group>"; };
+		F9B17B27295F6DD000AE3CCF /* HomeScreen.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HomeScreen.swift; sourceTree = "<group>"; };
+		F9B17B29295F6DE800AE3CCF /* Object.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Object.swift; sourceTree = "<group>"; };
+		F9B17B2B295F969400AE3CCF /* SelectableCollectionCellGroup.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SelectableCollectionCellGroup.swift; sourceTree = "<group>"; };
 		F9B77654295A309600AC1FB0 /* Switching Button.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Switching Button.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		F9B77657295A309600AC1FB0 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		F9B77659295A309600AC1FB0 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
 		F9B7765B295A309600AC1FB0 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
-		F9B7765E295A309600AC1FB0 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
 		F9B77660295A309700AC1FB0 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		F9B77663295A309700AC1FB0 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		F9B77665295A309700AC1FB0 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		F9B7766C295A35F300AC1FB0 /* ViewController.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = ViewController.xib; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -37,6 +63,72 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		F99B8554295DF923005EA13D /* SelectableButton */ = {
+			isa = PBXGroup;
+			children = (
+				F99B8555295DF937005EA13D /* SelectableButton.swift */,
+				F9B17B23295F6D6D00AE3CCF /* Table */,
+				F9B17B24295F6D7200AE3CCF /* Collection */,
+				F9B17B25295F6D7600AE3CCF /* Stack */,
+				F99B8560295EB337005EA13D /* Protocol */,
+			);
+			path = SelectableButton;
+			sourceTree = "<group>";
+		};
+		F99B855D295EB30F005EA13D /* Model */ = {
+			isa = PBXGroup;
+			children = (
+				F99B855E295EB31E005EA13D /* User.swift */,
+				F9B17B29295F6DE800AE3CCF /* Object.swift */,
+			);
+			path = Model;
+			sourceTree = "<group>";
+		};
+		F99B8560295EB337005EA13D /* Protocol */ = {
+			isa = PBXGroup;
+			children = (
+				F99B8561295EB34E005EA13D /* SelectableNameProtocol.swift */,
+				F99B8563295EB370005EA13D /* SelectableDelegate.swift */,
+			);
+			path = Protocol;
+			sourceTree = "<group>";
+		};
+		F9B17B23295F6D6D00AE3CCF /* Table */ = {
+			isa = PBXGroup;
+			children = (
+				F99B8557295EB25C005EA13D /* SelectableTableGroup.swift */,
+				F99B8559295EB28B005EA13D /* SelectableTableCellGroup.swift */,
+			);
+			path = Table;
+			sourceTree = "<group>";
+		};
+		F9B17B24295F6D7200AE3CCF /* Collection */ = {
+			isa = PBXGroup;
+			children = (
+				F99B855B295EB2AA005EA13D /* SelectableCollectionGroup.swift */,
+				F9B17B2B295F969400AE3CCF /* SelectableCollectionCellGroup.swift */,
+			);
+			path = Collection;
+			sourceTree = "<group>";
+		};
+		F9B17B25295F6D7600AE3CCF /* Stack */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = Stack;
+			sourceTree = "<group>";
+		};
+		F9B17B26295F6DB400AE3CCF /* Screen */ = {
+			isa = PBXGroup;
+			children = (
+				F9B7765B295A309600AC1FB0 /* ViewController.swift */,
+				F9B17B27295F6DD000AE3CCF /* HomeScreen.swift */,
+				F98B6E8329634B1F00EF9302 /* TestScreen.swift */,
+				F98B6E8429634B1F00EF9302 /* TestScreen.xib */,
+			);
+			path = Screen;
+			sourceTree = "<group>";
+		};
 		F9B7764B295A309600AC1FB0 = {
 			isa = PBXGroup;
 			children = (
@@ -56,13 +148,16 @@
 		F9B77656295A309600AC1FB0 /* Switching Button */ = {
 			isa = PBXGroup;
 			children = (
+				F9B17B26295F6DB400AE3CCF /* Screen */,
+				F99B8554295DF923005EA13D /* SelectableButton */,
+				F99B855D295EB30F005EA13D /* Model */,
 				F9B77657295A309600AC1FB0 /* AppDelegate.swift */,
 				F9B77659295A309600AC1FB0 /* SceneDelegate.swift */,
-				F9B7765B295A309600AC1FB0 /* ViewController.swift */,
-				F9B7765D295A309600AC1FB0 /* Main.storyboard */,
 				F9B77660295A309700AC1FB0 /* Assets.xcassets */,
 				F9B77662295A309700AC1FB0 /* LaunchScreen.storyboard */,
 				F9B77665295A309700AC1FB0 /* Info.plist */,
+				F9B7766C295A35F300AC1FB0 /* ViewController.xib */,
+				F99B8552295DEDC2005EA13D /* Testing.swift */,
 			);
 			path = "Switching Button";
 			sourceTree = "<group>";
@@ -125,9 +220,10 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				F9B7766E295A35F300AC1FB0 /* ViewController.xib in Resources */,
 				F9B77664295A309700AC1FB0 /* LaunchScreen.storyboard in Resources */,
 				F9B77661295A309700AC1FB0 /* Assets.xcassets in Resources */,
-				F9B7765F295A309600AC1FB0 /* Main.storyboard in Resources */,
+				F98B6E8629634B1F00EF9302 /* TestScreen.xib in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -138,8 +234,20 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				F99B8564295EB370005EA13D /* SelectableDelegate.swift in Sources */,
+				F9B17B2C295F969400AE3CCF /* SelectableCollectionCellGroup.swift in Sources */,
 				F9B7765C295A309600AC1FB0 /* ViewController.swift in Sources */,
+				F98B6E8529634B1F00EF9302 /* TestScreen.swift in Sources */,
+				F99B855C295EB2AA005EA13D /* SelectableCollectionGroup.swift in Sources */,
+				F99B855A295EB28B005EA13D /* SelectableTableCellGroup.swift in Sources */,
 				F9B77658295A309600AC1FB0 /* AppDelegate.swift in Sources */,
+				F99B8562295EB34E005EA13D /* SelectableNameProtocol.swift in Sources */,
+				F99B8553295DEDC2005EA13D /* Testing.swift in Sources */,
+				F99B855F295EB31E005EA13D /* User.swift in Sources */,
+				F9B17B28295F6DD000AE3CCF /* HomeScreen.swift in Sources */,
+				F99B8556295DF937005EA13D /* SelectableButton.swift in Sources */,
+				F9B17B2A295F6DE800AE3CCF /* Object.swift in Sources */,
+				F99B8558295EB25C005EA13D /* SelectableTableGroup.swift in Sources */,
 				F9B7765A295A309600AC1FB0 /* SceneDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -147,14 +255,6 @@
 /* End PBXSourcesBuildPhase section */
 
 /* Begin PBXVariantGroup section */
-		F9B7765D295A309600AC1FB0 /* Main.storyboard */ = {
-			isa = PBXVariantGroup;
-			children = (
-				F9B7765E295A309600AC1FB0 /* Base */,
-			);
-			name = Main.storyboard;
-			sourceTree = "<group>";
-		};
 		F9B77662295A309700AC1FB0 /* LaunchScreen.storyboard */ = {
 			isa = PBXVariantGroup;
 			children = (
@@ -292,7 +392,6 @@
 				INFOPLIST_FILE = "Switching Button/Info.plist";
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen;
-				INFOPLIST_KEY_UIMainStoryboardFile = Main;
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
 				LD_RUNPATH_SEARCH_PATHS = (
@@ -320,7 +419,6 @@
 				INFOPLIST_FILE = "Switching Button/Info.plist";
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen;
-				INFOPLIST_KEY_UIMainStoryboardFile = Main;
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
 				LD_RUNPATH_SEARCH_PATHS = (
